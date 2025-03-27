@@ -1,2 +1,2 @@
 # -MamaMbogaMoment
-Transformed csv file to GEFX file.
+Transformed CSV file to GEFX file for interpretations.
